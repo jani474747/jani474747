@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there! I'm Shaik Jani Shaida <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
-<h2 align="center">Though I graduated in Bachelor's in Computer Science, I aspire to work as a programmer.</h2>
+<h2 align="center">Though I graduated in Bachelor's Computer Science, I aspire to work as a programmer.</h2>
 
 
 <h2 align="center">Currently Learning in <a href="https://www.masaischool.com/">Masai School</a> as a Full Stack Web Developer. building new and delightful projects with the community, for the community.</h2>
