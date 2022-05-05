@@ -17,7 +17,7 @@ I have been learning coding since October 2021. Masai has given me the training 
 <img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
 
 * 🌍  I'm based in Guntur, Andhra Pradesh
-* 💬  My portfolio is [https://portfolio-aditya-choubey.vercel.app/]
+* 💬  My portfolio is [https://portfolio2-shaik-janishaida.vercel.app/]
 * ✉️  You can contact me at [shaikjanishaida47@gmail.com](mailto:shaikjanishaida47@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
 * 🤔  I’m looking for help with `Competitive Programming`
