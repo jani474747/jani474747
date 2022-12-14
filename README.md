@@ -3,8 +3,8 @@
 <h1 align="center">Hi there! I'm Shaik Jani Shaida <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
 
-                                                        React Developer
-                                                        ------------------------
+                                                             React Developer
+                                                        -------------------------
 
 <h2 align="center">Though I graduated in Bachelor's Computer Science, I aspire to work as a programmer.</h2>
 <h2 align="center">Currently Working in <a href="https://instrive.in/">Instrive SoftLabs PVT LTD</a> as a React Developer. building new and delightful projects with the community, for the community.</h2>
